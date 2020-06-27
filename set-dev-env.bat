@@ -1,1 +1,1 @@
-choco install nodejs yarn vim postman git keybase conemu spotify -y
+choco install nodejs yarn vim postman git keybase conemu spotify vscode -y
