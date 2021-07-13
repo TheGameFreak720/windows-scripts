@@ -1,1 +1,1 @@
-choco install keybase nordpass spotify firefox vlc tuxguitar -y
+choco install keybase nordpass spotify firefox vlc tuxguitar libreoffice-fresh -y
